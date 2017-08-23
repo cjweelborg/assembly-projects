@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Here is your command line argument $1"
+
+echo "This is the command your running right now: $0"
+
+cat $1
